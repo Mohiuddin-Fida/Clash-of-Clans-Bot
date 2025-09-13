@@ -2,7 +2,7 @@
 
 ## 📌 Project Goals
 
-This project is focused on developing an intelligent, image-based automation bot to farm **Coins** and **Elixir** efficiently in both the **Main Base** and **Builder Base** of Clash of Clans. The bot operates through screen detection, decision-making algorithms, and error recovery mechanisms to ensure 24/7 efficient farming with minimal detection risk.
+This project is focused on developing an intelligent, image-based automation bot to farm **Coins** and **Elixir** efficiently in both the **Main Base** and **Builder Base** of Clash of Clans. The bot operates through screen detection, decision-making algorithms, and error recovery mechanisms to ensure 24/7 efficient farming with minimal detection risk.(The project is still under development. I am currently busy, and although I had time to work on it earlier, I had to take a break due to medical issues. I will resume work on the project as soon as my semester ends.)
 
 ## 🎯 Objectives
 
