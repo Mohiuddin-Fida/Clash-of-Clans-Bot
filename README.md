@@ -1,5 +1,7 @@
 # Clash of Clans Farming Bot
 
+Underdevelopment
+
 ## 📌 Project Goals
 
 This project is focused on developing an intelligent, image-based automation bot to farm **Coins** and **Elixir** efficiently in both the **Main Base** and **Builder Base** of Clash of Clans. The bot operates through screen detection, decision-making algorithms, and error recovery mechanisms to ensure 24/7 efficient farming with minimal detection risk.
@@ -18,8 +20,6 @@ This project is focused on developing an intelligent, image-based automation bot
 - ✅ **Image Detection-Based Logic**  
   Uses image detection to:
   - Identify loot availability
-  - Evaluate enemy base defenses
-  - Handle training screen and base layouts
   - Deploy troops at strategic points
 
 - ✅ **Error Handling**  
@@ -63,7 +63,7 @@ This project is focused on developing an intelligent, image-based automation bot
 |--------------------|--------------------------|
 | Coins per 6 hours  | ~300 million             |
 | Elixir per 6 hours | Consistent with Coins    |
-| Bot Uptime         | ~70% uptime              |
+| Bot Uptime         | ~95% uptime              |
 | Detection Risk     | Minimal (human-like taps)|
 
 ---
