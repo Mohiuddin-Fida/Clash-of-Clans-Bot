@@ -24,13 +24,6 @@ This project is focused on developing an intelligent, image-based automation bot
   - App crashes or freezes
   - Unexpected interruptions (e.g., maintenance, login screen)
 
-- ✅ **Anti-Detection Measures**  
-  Implements techniques to mimic human-like interactions:
-  - Randomized tap positions
-  - Varying delays
-  - Avoids repetitive patterns
-  - Simulates idle time between attacks
-
 - ✅ **Efficiency Optimization**  
   Currently achieving **~300 million coins in 5–6 hours**. Aim is to:
   - Improve target base detection accuracy
