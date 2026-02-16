@@ -42,4 +42,3 @@ This project is focused on developing an intelligent, image-based automation bot
 
 - `Python` with `PyAutoGUI`, `OpenCV`, `NumPy`, `Tkinter`
 - Android Emulator (LDPlayer)
-## 🖐️ How to Operate
